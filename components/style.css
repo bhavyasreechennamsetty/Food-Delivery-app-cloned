@@ -21,3 +21,12 @@
     font-weight: bolder;
     text-transform: uppercase;
 }
+li button{
+    padding: 4px;
+}
+.login{
+    background-color: green;
+}
+.logout{
+    background-color: red;
+}

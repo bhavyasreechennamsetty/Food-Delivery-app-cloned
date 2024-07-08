@@ -1,6 +1,6 @@
 import { BASE_URL } from "../utils/data";
 
-const RestaurantCard = ({
+const RestauratCard = ({
   name,
   cloudinaryImageId,
   areaName,
@@ -22,4 +22,4 @@ const RestaurantCard = ({
   );
 };
 
-export default RestaurantCard;
+export default RestauratCard;
